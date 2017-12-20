@@ -1,0 +1,22 @@
+{
+  "name": "advancehangman",
+  "version": "1.0.0",
+  "description": "when suicide becomes the only option",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkim85/AdvancedHangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkim85/AdvancedHangman/issues"
+  },
+  "homepage": "https://github.com/dkim85/AdvancedHangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
